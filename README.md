@@ -34,7 +34,6 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias e bibliotecas:
 -   **Navegação**: [Jetpack Navigation Compose](https://developer.android.com/jetpack/compose/navigation) para gerenciar a navegação entre as telas do aplicativo.
 -   **Assincronia**: [Kotlin Coroutines](https://kotlinlang.org/docs/coroutines-overview.html) (`viewModelScope`) para operações assíncronas, como a atualização do progresso da música.
 -   **Player de Mídia**: `MediaPlayer` nativo do Android, encapsulado no `PlayerViewModel` para controle robusto.
--   **Carregamento de Imagens**: [Coil](https://coil-kt.github.io/coil/) para carregar e exibir os GIFs das categorias de forma eficiente.
 
 ## 🏗️ Arquitetura do Projeto
 
