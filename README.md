@@ -61,10 +61,6 @@ Para executar este projeto, siga os passos abaixo:
     -   Selecione um emulador ou conecte um dispositivo físico.
     -   Clique no botão 'Run' (▶️).
 
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE.md](LICENSE.md) para mais detalhes.
-
 ---
 
 *Desenvolvido com ❤️ por Naju*
