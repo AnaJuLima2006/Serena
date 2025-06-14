@@ -69,7 +69,7 @@ E o melhor? O resultado final ficou ainda mais sereno do que eu imaginei no come
 
 ## 🎥 Demonstração em vídeo
 
-[![Assista ao app em ação no YouTube](assets/splash.jpg)](https://www.youtube.com/shorts/aPe11NLc3Mk)
+[[![Assista ao app em ação no YouTube](https://img.youtube.com/vi/aPe11NLc3Mk/maxresdefault.jpg)](https://www.youtube.com/shorts/aPe11NLc3Mk)
 
 > Veja como o Serena funciona na prática! Interface fluida, sons relaxantes e muito amor por trás de cada linha de código 💖
 
