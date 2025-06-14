@@ -61,7 +61,17 @@ E o melhor? O resultado final ficou ainda mais sereno do que eu imaginei no come
 
 | Splash Screen | Tela de Boas-vindas | Tela Inicial | Player de Música |
 | :-----------: | :------------------: | :------------: | :--------------: |
-| *[Insira a screenshot da SplashScreen aqui]* | *[Insira a screenshot da WelcomeScreen aqui]* | *[Insira a screenshot da HomeScreen aqui]* | *[Insira a screenshot da SoundPlayerScreen aqui]* |
+| ![Splash Screen](assets/splash.jpg) | ![Welcome Screen](assets/welcome.jpg) | ![Home Screen](assets/home.jpg) | ![Muisic Screen](assets/music.jpg) |
+
+---
+
+📸 Anexei abaixo o vídeo do app funcionando no celular.
+
+## 🎥 Demonstração em vídeo
+
+[![Assista ao app em ação no YouTube](assets/splash.jpg)](https://www.youtube.com/shorts/aPe11NLc3Mk)
+
+> Veja como o Serena funciona na prática! Interface fluida, sons relaxantes e muito amor por trás de cada linha de código 💖
 
 ---
 
