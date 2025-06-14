@@ -88,7 +88,12 @@ Para executar este projeto, siga os passos abaixo:
 4.  **Execute o aplicativo** (▶️) em um emulador ou dispositivo físico.
 
 ---
+## 🙏 Agradecimento especial
 
+
+Quero agradecer ao meu professor **Gabriel Augusto Azevedo**, que com todo seu conhecimento e experiências compartilhadas me ajudou a evoluir e construir este aplicativo com ainda mais confiança. 💖
+
+---
 ## ❤️ Feito por
 
 Desenvolvido com muito carinho e código por **Naju**. ✨
